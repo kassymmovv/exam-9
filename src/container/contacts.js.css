@@ -1,0 +1,24 @@
+.Main{
+    border: 1px solid;
+    padding: 10px;
+    display: flex;
+    width: 400px;
+    margin: auto;
+    border-radius: 5px;
+
+}
+.img{
+    width: 150px;
+    height: 150px;
+}
+.EditForm{
+    margin: auto;
+    width: 235px;
+}
+.addForm{
+    margin: auto;
+    width: 235px;
+}
+.Navlink{
+    margin: auto;
+}
